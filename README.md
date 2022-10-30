@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MohamedAbdElmoniem
 - 👀 I’m interested in React Native/ ReactJS / JavaScript / Design Patterns / Algorithms & Data Structures / Problem Solving
-- 🌱 I’m currently learning ...
 - 📫 How to reach me: mohamed.moniem468@gmail.com / 201032839535
 
 <!---
